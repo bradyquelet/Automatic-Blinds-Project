@@ -7,7 +7,7 @@ This system uses ambient light levels to raise or lower blinds and uses motion d
 
 ## My Contributions
 - Designed the Arduino housing in SolidWorks
-- Assisted with electrical schematics and system integration
+- Created electrical schematics and aided in system integration
 - Contributed to Arduino programming for sensor input, motor control, and LED operation
 
 ## Tools & Components
