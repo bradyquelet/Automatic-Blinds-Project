@@ -23,4 +23,4 @@ This system uses ambient light levels to raise or lower blinds and uses motion d
 ## Repository Contents
 - `/code` — Arduino control code
 - `/images` — CAD, schematic, workflow, and prototype images
-- `/docs` — final project report
+- `/docs` — final project report and BOM
